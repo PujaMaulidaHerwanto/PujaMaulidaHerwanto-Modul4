@@ -1,0 +1,11 @@
+C:\Users\pujam\Documents\Vb\modul4\modul4\bin\Debug\modul4.exe.config
+C:\Users\pujam\Documents\Vb\modul4\modul4\bin\Debug\modul4.exe
+C:\Users\pujam\Documents\Vb\modul4\modul4\bin\Debug\modul4.pdb
+C:\Users\pujam\Documents\Vb\modul4\modul4\bin\Debug\modul4.xml
+C:\Users\pujam\Documents\Vb\modul4\modul4\obj\Debug\modul4.vbprojAssemblyReference.cache
+C:\Users\pujam\Documents\Vb\modul4\modul4\obj\Debug\modul4.Form1.resources
+C:\Users\pujam\Documents\Vb\modul4\modul4\obj\Debug\modul4.Resources.resources
+C:\Users\pujam\Documents\Vb\modul4\modul4\obj\Debug\modul4.vbproj.GenerateResource.cache
+C:\Users\pujam\Documents\Vb\modul4\modul4\obj\Debug\modul4.exe
+C:\Users\pujam\Documents\Vb\modul4\modul4\obj\Debug\modul4.xml
+C:\Users\pujam\Documents\Vb\modul4\modul4\obj\Debug\modul4.pdb
